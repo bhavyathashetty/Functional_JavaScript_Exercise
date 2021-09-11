@@ -113,6 +113,7 @@ profile(com)
 const isGreater = (num) => num > 10
 console.log(isGreater(11))
 
+
 //sorting numbers
 //sort method- abstracts the way of comparing each element
 
